@@ -12,7 +12,8 @@ public class LengthOfLastWord {
 
 	// TODO Auto-generated method stub
 	private static int lengthOfLastWord(String s) {
-
+        if(s.length()==0)
+        	return 0;
 		String wL[] = s.split(" ");
 		int size = wL.length;
 		String k = wL[size - 1];

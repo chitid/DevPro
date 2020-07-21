@@ -30,5 +30,5 @@ public class CountDuplicate {
 		  str.chars().mapToObj(ch->(char)ch).collect(Collectors.groupingBy(c->c,Collectors.counting()));		  
 		  return result;		
 	}
-
+	
 }
