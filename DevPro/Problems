@@ -1,0 +1,74 @@
+1. Counting duplicate characters
+2. Finding the first non-repeated character
+
+3. Reversing letters and words
+
+4. Checking whether a string&#xA0;contains only digits
+
+5. Counting vowels and consonants
+
+6. Counting the occurrences of a certain character
+
+7. Converting a string into an int, long, float, or double
+
+8. Removing white spaces from a string
+
+9. Joining multiple strings with a delimiter
+
+10. Generating all permutations
+
+11. Checking whether a string is a palindrome
+
+12. Removing duplicate characters
+
+13. Removing a given character
+
+14. Finding the character with the most appearances
+
+15. Sorting an array of strings by length
+
+16. Checking that a string contains a substring
+
+17. Counting substring occurrences in a string
+
+18. Checking whether two strings are anagrams
+
+19. Declaring multiline strings (text blocks)
+
+20. Concatenating the same string n times
+
+21. Removing leading and trailing spaces
+
+22. Finding the longest common prefix
+
+23. Applying indentation
+
+24. Transforming strings
+
+25. Computing the minimum and maximum of two numbers
+
+26. Summing two large int/long values and operation overflow
+
+27. String as an unsigned number in the radix
+
+28. Converting into a number by an unsigned conversion
+
+29. Comparing two unsigned numbers
+
+30. Division and modulo of unsigned values
+
+31. double/float is a finite floating-point value
+
+32. Applying logical AND/OR/XOR to two boolean expressions
+
+33. Converting BigInteger into a primitive type
+
+34. Converting long into int
+
+35. Computing the floor of a division and modulus
+
+36. Next floating-point value
+
+37.&#xA0;Multiplying two large int/long values and operation overflow
+
+38. Fused Multiply Add
